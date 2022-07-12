@@ -1,0 +1,4 @@
+#!/bin/env bash
+cp .zshrc $HOME/
+cp alacritty.yml $HOME/.config/alacritty/
+cp .vimrc $HOME/
