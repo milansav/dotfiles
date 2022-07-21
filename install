@@ -1,4 +1,5 @@
 #!/bin/env bash
 cp .zshrc $HOME/
+mkdir -p $HOME/.config/alacritty
 cp alacritty.yml $HOME/.config/alacritty/
 cp .vimrc $HOME/
